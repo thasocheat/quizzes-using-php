@@ -1,0 +1,39 @@
+Answer: HTML
+A
+C
+B
+A
+D
+C
+==================
+Answer: CSS
+D
+B
+C
+A
+B
+A
+=================
+Answer: jAVASCRIPT
+C
+C
+B
+A
+D
+A
+=================
+Answer: BOOTSTRAP
+B
+A
+C
+B
+D
+C
+=================
+Answer: NETWORK
+B
+C
+D
+A
+C
+B
